@@ -49,15 +49,6 @@ how to perform specific tasks.
 
 > Think of programming as writing a recipe for a computer.
 
-### Programming vs Cooking
-
-  Cooking         Programming
-  --------------- -------------
-  Ingredients     Data
-  Recipe          Program
-  Cook            Computer
-  Finished Dish   Output
-
 ------------------------------------------------------------------------
 
 # ⭐ Why Learn Programming?
