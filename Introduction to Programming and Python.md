@@ -1,11 +1,7 @@
 # 🚀 Lecture 01: Introduction to Programming and Python
 
 ::: {align="center"}
-## B.Sc. Data Science & Artificial Intelligence (Semester I)
 
-**Department of Information Technology**
-
-**Baba Ghulam Shah Badshah University, Rajouri**
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Course](https://img.shields.io/badge/Course-Programming_with_Python-success)
@@ -218,8 +214,4 @@ Write a Python program that:
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-## 🎉 Congratulations!
 
-**Next Lecture:** Variables, Data Types, and Input/Output in Python
-:::
