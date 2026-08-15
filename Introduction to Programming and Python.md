@@ -7,7 +7,6 @@ Science](https://img.shields.io/badge/Data_Science-AI-purple)
 
 *"Programming is the language through which humans teach computers to
 solve problems."*
-:::
 
 ------------------------------------------------------------------------
 
