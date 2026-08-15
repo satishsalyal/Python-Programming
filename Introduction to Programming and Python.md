@@ -1,8 +1,5 @@
 # 🚀 Lecture 01: Introduction to Programming and Python
 
-::: {align="center"}
-
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Course](https://img.shields.io/badge/Course-Programming_with_Python-success)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange) ![Data
