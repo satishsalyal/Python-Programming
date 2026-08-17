@@ -253,7 +253,107 @@ NumPy | Pandas | Statsmodels
 | ⚙️ **Scripting** | File ops, web scraping, data processing |
 
 ---
+# 🏥 Real-World AI Example
 
+Imagine a hospital with thousands of X-ray images.
+
+### Using Python, we can:
+
+- Read medical images
+
+- Clean the dataset
+
+- Train a deep learning model
+
+- Detect diseases automatically
+
+### Libraries used:
+
+OpenCV
+
+- TensorFlow
+
+- NumPy
+
+This demonstrates how Python connects programming with Artificial Intelligence.
+# 📈 Python Workflow
+
+``` text
+Collect Data
+   ↓
+Clean Data
+   ↓
+Analyze Data
+   ↓
+Visualize Data
+   ↓
+Train Model
+   ↓
+Deploy
+```
+
+------------------------------------------------------------------------
+
+# ⚡ Installing Python
+
+Install:
+
+-   Python 3.x
+-   VS Code
+-   Jupyter Notebook
+
+Verify:
+
+``` bash
+python --version
+```
+
+------------------------------------------------------------------------
+
+# 👋 Your First Python Program
+
+``` python
+print("Welcome to Python Programming")
+```
+
+Output:
+
+``` text
+Welcome to Python Programming
+```
+
+------------------------------------------------------------------------
+
+# 📝 Practice Exercise
+
+Write a Python program that:
+
+1.  Stores your name, age, and department.
+2.  Prints a welcome message.
+3.  Accepts two numbers.
+4.  Displays their sum.
+
+------------------------------------------------------------------------
+
+# 📋 Summary
+
+  Topic          Key Point
+  -------------- ---------------------------------
+  Programming    Instructions for computers
+  Python         High-level interpreted language
+  AI             TensorFlow, PyTorch
+  Data Science   NumPy, Pandas
+
+------------------------------------------------------------------------
+
+# ❓ Quick Revision Questions
+
+1.  What is programming?
+2.  Why is Python interpreted?
+3.  Name four Python features.
+4.  Name three Data Science libraries.
+
+------------------------------------------------------------------------
 <div align="center">
 
 ## 🎉 Start Your Python Journey Today!
