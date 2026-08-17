@@ -121,7 +121,29 @@ print("Hello World")
 -   Natural Language Processing
 
 ------------------------------------------------------------------------
+# 🏥 Real-World AI Example
 
+Imagine a hospital with thousands of X-ray images.
+
+### Using Python, we can:
+
+- Read medical images
+
+- Clean the dataset
+
+- Train a deep learning model
+
+- Detect diseases automatically
+
+### Libraries used:
+
+OpenCV
+
+- TensorFlow
+
+- NumPy
+
+This demonstrates how Python connects programming with Artificial Intelligence.
 # 📈 Python Workflow
 
 ``` text
