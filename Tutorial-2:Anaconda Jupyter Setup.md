@@ -50,7 +50,7 @@ Welcome to this comprehensive lecture on setting up your Python development envi
 ## 2. What is Anaconda?
 
 ### Definition
-**Anaconda** is a free and open-source distribution of Python and R programming languages for scientific computing (data science, machine learning, large-scale data processing, predictive analytics, etc.).
+**Anaconda** is a free and open-source distribution of Python programming language for scientific computing (data science, machine learning, large-scale data processing, predictive analytics, etc.).
 
 ### Why Use Anaconda?
 
