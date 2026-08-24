@@ -1,7 +1,6 @@
-# 🐍 Python Programming — 10 Basic Programs for UG Students
+# 🐍 Python Programming — 10 Basic Programs 
 
-> **🎓 Undergraduate Python Practical Guide**  
-> A beginner-friendly collection of 10 Python programs covering variables, input/output, operators, conditional statements, loops, lists, and functions.
+> **🎓  Python Practical Guide**  
 
 ---
 
