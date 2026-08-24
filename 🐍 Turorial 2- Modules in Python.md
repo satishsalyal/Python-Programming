@@ -1,4 +1,4 @@
-# 🐍  Modules in Python
+# 🐍  Modules in Python Tutorial 2
 
 > **📚 Python Programming |**  
 > Learn how Python modules help organize, reuse, and manage code efficiently.
