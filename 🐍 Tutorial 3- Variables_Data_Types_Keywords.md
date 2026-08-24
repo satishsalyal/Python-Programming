@@ -1,6 +1,6 @@
-# 🐍 Chapter 3 — Variables, Data Types & Keywords in Python
+# 🐍 Tutorial 3 — Variables, Data Types & Keywords in Python
 
-> **Python Programming | Chapter 3**  
+> **Python Programming | Tutorial 3**  
 > A practical introduction to variables, identifiers, data types, and keywords in Python.
 
 ---
