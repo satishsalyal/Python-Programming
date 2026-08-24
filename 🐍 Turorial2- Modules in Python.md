@@ -1,6 +1,6 @@
-# 🐍 Chapter 2 — Modules in Python
+# 🐍  Modules in Python
 
-> **📚 Python Programming | Chapter 2**  
+> **📚 Python Programming |**  
 > Learn how Python modules help organize, reuse, and manage code efficiently.
 
 ---
@@ -526,4 +526,3 @@ Python Modules
     └── Manage packages
 ```
 
-> ⭐ **Remember:** The main purpose of modules is to make Python programs more **organized, reusable, maintainable, and easier to understand**.
