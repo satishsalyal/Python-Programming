@@ -1464,11 +1464,6 @@ Final Mini Project
 
 ---
 
-## 📜 License
-
-This repository is intended for **educational and academic purposes**.
-
-Students and instructors are welcome to modify, extend, and use these projects for learning and classroom activities.
 
 ---
 
@@ -1476,4 +1471,3 @@ Students and instructors are welcome to modify, extend, and use these projects f
 
 > **Don't just read Python code — write it, run it, modify it, break it, debug it, and improve it.**
 
-**Happy Coding! 🐍🚀**
