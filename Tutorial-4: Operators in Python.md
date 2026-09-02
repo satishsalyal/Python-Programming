@@ -1,7 +1,5 @@
 # 🐍 Operators in Python
 
-> ** Operators in Python**  
-> A stylish and beginner-friendly GitHub Markdown version of the provided study material, with an example for each concept.
 
 ---
 
