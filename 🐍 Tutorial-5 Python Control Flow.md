@@ -1,4 +1,4 @@
-# 🐍 Chapter 5: Python Basics to Advanced — Control Flow
+# 🐍 Python Basics to Advanced — Control Flow
 
 > **Control Flow** directs program execution through structures like loops, conditionals, and functions, determining the order and path of operations.
 
