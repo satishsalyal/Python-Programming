@@ -1,6 +1,6 @@
-# Python Fundamentals: Operators, Strings, Type Casting & Indentation
+ Operators, Strings, Type Casting & Indentation
 
-A comprehensive guide covering operator precedence, string operations, type casting, and indentation in Python — with detailed examples.
+A comprehensive tutorial covering operator precedence, string operations, type casting, and indentation in Python — with detailed examples.
 
 ---
 
