@@ -1,4 +1,4 @@
-# 🐍 B.Sc. 3rd Semester-Python Programming
+# 🐍 B.Sc. Data Science and AI 3rd Semester-Python Programming
 
 ## 📘 Home Assignment 1
 
