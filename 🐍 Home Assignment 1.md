@@ -26,7 +26,7 @@ Students should use only the concepts taught in the current Python Control Flow 
 
 ---
 
-# 📝 Question 1 — College Admission
+# 📝  1-College Admission
 
 Write a Python program to determine whether a student is eligible for admission.
 
@@ -56,7 +56,7 @@ Use a **nested `if`** so that the entrance-test condition is checked only after 
 
 ---
 
-# 🏧 Question 2 — ATM Withdrawal
+# 🏧 Experiment 2-ATM Withdrawal
 
 Write a Python program that accepts:
 
@@ -88,43 +88,9 @@ Use **nested `if` statements** to perform the validation step by step.
 
 ---
 
-# 🎓 Question 3 — Scholarship Eligibility
 
-Design a Python program to determine whether a student receives a scholarship.
 
-The program should accept:
-
-* Percentage
-* Attendance percentage
-* Family income
-
-Create suitable conditions for:
-
-```text
-Full Scholarship
-Partial Scholarship
-Not Eligible
-```
-
-### ⭐ Challenge
-
-Your program must use both:
-
-```python
-and
-```
-
-and
-
-```python
-or
-```
-
-in the decision-making logic.
-
----
-
-# ⚡ Question 4 — Electricity Bill
+# ⚡ Experiment 3-Electricity Bill
 
 Create a Python program to calculate an electricity bill based on the number of units consumed.
 
@@ -215,7 +181,7 @@ A typical structure is:
 
 # 📌 Submission Format
 
-For **every question**, students must prepare:
+For **every experiment**, students must prepare:
 
 ```text
 1. Problem Statement
