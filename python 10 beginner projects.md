@@ -1,4 +1,4 @@
-# 🐍 10 Beginner Python Projects for Undergraduate Students
+# 🐍 10 Beginner Python Projects for B.Sc Data Science and AI
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Level](https://img.shields.io/badge/Level-Beginner-success)]()
